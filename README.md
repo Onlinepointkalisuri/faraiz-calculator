@@ -1,0 +1,2 @@
+# faraiz-calculator
+Proffetional Calculetor
